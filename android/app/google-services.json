@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "891928522655",
+    "project_id": "notifee-f0207",
+    "storage_bucket": "notifee-f0207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891928522655:android:b5883135c7a5a0cc1417aa",
+        "android_client_info": {
+          "package_name": "Trai.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891928522655-fm22l5lu1nevgvn1bjcnt8h1uc3ven3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Trai.com",
+            "certificate_hash": "5cff8627730f1469a2d936716c4a37af39eb6674"
+          }
+        },
+        {
+          "client_id": "891928522655-c03nlm0o6esojpu8kg0p931ecdl62hc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-exxx6RJMeRVabgybTN22QIvhne_Cc0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891928522655-c03nlm0o6esojpu8kg0p931ecdl62hc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
